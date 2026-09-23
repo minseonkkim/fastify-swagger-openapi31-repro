@@ -1,0 +1,10 @@
+{
+  "name": "fastify-swagger-openapi31-repro",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "fastify": "5.12.5",
+    "@fastify/swagger": "9.9.0"
+  }
+}
