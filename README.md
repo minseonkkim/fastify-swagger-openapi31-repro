@@ -1,0 +1,1 @@
+# fastify-swagger-openapi31-repro
